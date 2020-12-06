@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Publication"
-authors: []
-date: 2020-12-06T16:04:00-05:00
+title: "Recognition of aggressive episodes of pigs based on convolutional neural network and long short-term memory"
+authors: [Chen Chen, Weixing Zhu, Juan Steibel, Janice Siegford, Kaitlin Wurtz, Junjie Han, Tomas Norton]
+date: 2020-02-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2020-12-06T16:04:00-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+journal: "Computers and Electronics in Agriculture"
 publication_short: ""
 
 abstract: ""
