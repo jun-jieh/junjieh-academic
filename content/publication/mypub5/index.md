@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Publication"
-authors: []
-date: 2020-12-06T16:04:00-05:00
-doi: ""
+title: "Heuristic hyperparameter optimization of deep learning models for genomic prediction"
+authors: [Junjie Han, Cedric Gondro, Kenneth Reid, Juan P Steibel]
+date: 2020-12-01
+doi: "https://doi.org/10.1101/2020.11.25.398800"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-12-06T16:04:00-05:00
@@ -13,13 +13,13 @@ publishDate: 2020-12-06T16:04:00-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "bioRxiv"
 publication_short: ""
 
-abstract: ""
+abstract: "Submitted"
 
 # Summary. An optional shortened abstract.
 summary: ""
