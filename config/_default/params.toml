@@ -96,7 +96,7 @@ address = {street = "474 S. Shaw Ln", city = "East Lansing", region = "MI", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.72", longitude = "-84.48"}
+coordinates = {latitude = "42.72503548357705", longitude = "-84.47899090075535"}
 
 # Directions for visitors to locate you.
 directions = "Rm. 1205E, Anthony Hall"
