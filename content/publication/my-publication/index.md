@@ -16,10 +16,10 @@ publishDate: 2020-12-06T16:04:00-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Computers and Electronics in Agriculture"
 publication_short: ""
 
-abstract: "Computers and Electronics in Agriculture"
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
