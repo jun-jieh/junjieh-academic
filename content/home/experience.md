@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD Student"
+  company = "Michigan State University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "East Lansing"
+  date_start = "2018-08-16"
   date_end = ""
   description = """
-  Responsibilities include:
+  Advisor: Dr. Juan Steibel
   
-  * Analysing
-  * Modelling
-  * Deploying
+  Accomplishments include:
+  
+  * Awarded Food Systems Fellowship, College of Agriculture and Natural Resource
+  * Approved for dual PhD program, Animal Science (primary) & Computational Mathematics, Science, and Engineering (secondary)
+  * Event Coordinator, 2020 Animal Science Graduate Research Forum
+  * Invited Instructor, ANS 901, Michigan State University (Mar 2020)
+  * Admitted to the MSU Graduate Certification in Community Engagement
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "MS Student"
+  company = "Michigan State University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "East Lansing"
+  date_start = "2016-08-20"
+  date_end = "2018-05-04"
+  description = """Majored in Biostatistics (Advisor: Dr. Qing Lu)."""
 
 +++
