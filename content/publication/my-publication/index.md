@@ -17,9 +17,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "Computers and Electronics in Agriculture"
+publication_short: ""
 
-abstract: ""
+abstract: "Computers and Electronics in Agriculture"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -66,4 +66,25 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+title: "Recognition of aggressive episodes of pigs based on convolutional neural network and long short-term memory"
+authors: [Chen Chen, Weixing Zhu, Juan Steibel, Janice Siegford, Kaitlin Wurtz, Junjie Han, Tomas Norton]
+date: 2020-02-01
+doi: "https://doi.org/10.1016/j.compag.2019.105166"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: 2020-12-06T16:04:00-05:00
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: ""
+publication_short: ""
+
+abstract: "Computers and Electronics in Agriculture"
+
 ---
