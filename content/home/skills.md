@@ -17,20 +17,32 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Programming"
+  description = "R, Matlab, Python, C"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "dna"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Quantitative Genetics"
+  description = "Genomic prediction, animal breeding, RNA sequencing analysis, high-throughput phenotyping, animal behavior"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "lightbulb"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Algorithms"
+  description = "Differential evolution/genetic algorithm, statistical learning, image processing"
+  
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "Data Analysis"
+  description = "Genome sequence data, (depth) image data, categorical data analysis"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Artificial Intelligence"
+  description = "Machine learning, neural networks, computer vision"
 
 # Uncomment to use emoji icons.
 # [[feature]]
