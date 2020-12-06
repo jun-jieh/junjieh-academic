@@ -67,6 +67,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 
+---
+
 title: "Recognition of aggressive episodes of pigs based on convolutional neural network and long short-term memory"
 authors: [Chen Chen, Weixing Zhu, Juan Steibel, Janice Siegford, Kaitlin Wurtz, Junjie Han, Tomas Norton]
 date: 2020-02-01
