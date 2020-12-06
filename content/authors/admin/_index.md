@@ -1,74 +1,46 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Junjie Han
+role: PhD student of Animal Science & Computational Mathematics, Science and
+  Engineering
+bio: My research interests include precision livestock farming, computer vision,
+  genomic prediction, and deep learning.
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Y3H5lD4AAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Junjie_Han3
+  - icon: file
+    icon_pack: fas
+    link: https://www.canr.msu.edu/people/han-junjie
+  - icon: file-alt
+    icon_pack: fas
+    link: https://cmse.msu.edu/directory/graduate-students/junjie-han/
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - name: Michigan State University
+    url: msu.edu
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Animal Science & Computational Mathematics, Science and
+        Engineering (dual major)
+      institution: Michigan State University
+      year: ""
+    - course: MS in Biostatistics
+      institution: Michigan State University
+      year: ""
+    - course: BS in Information and Computing Science
+      institution: Minzu University of China
+      year: ""
+email: hanjunji@msu.edu
+superuser: true
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student of Animal Science & Computational Mathematics, Science and Engineering (dual major) at Michigan State University. My research interests include precision livestock farming, computer vision, genomic prediction, and deep learning. I work on automatic detection of housed pigs' agonistic behaviors through computer vision tools. Also, I develop deep learning models for genomic prediction in animals. I have fun with applying different algorithms to solve practical problems in the field of Animal Science e.g. genomic prediction/selection and animal behavior analysis.
