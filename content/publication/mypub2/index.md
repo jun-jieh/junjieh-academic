@@ -4,7 +4,7 @@
 title: "Recognition of aggressive episodes of pigs based on convolutional neural network and long short-term memory"
 authors: [Chen Chen, Weixing Zhu, Juan Steibel, Janice Siegford, Kaitlin Wurtz, Junjie Han, Tomas Norton]
 date: 2020-02-01
-doi: ""
+doi: "https://doi.org/10.1016/j.compag.2019.105166"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-12-06T16:04:00-05:00
@@ -16,7 +16,7 @@ publishDate: 2020-12-06T16:04:00-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-journal: "Computers and Electronics in Agriculture"
+publication: "Computers and Electronics in Agriculture"
 publication_short: ""
 
 abstract: ""
