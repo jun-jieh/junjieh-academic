@@ -27,7 +27,7 @@ organizations:
 education:
   courses:
     - course: PhD in Animal Science & Computational Mathematics, Science and
-        Engineering (dual major)
+        Engineering (dual major, in progress)
       institution: Michigan State University
       year: ""
     - course: MS in Biostatistics
