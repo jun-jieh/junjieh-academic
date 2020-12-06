@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Conference Abstracts"
 subtitle = ""
 
 # Date format
@@ -19,14 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+
+  description = " 1. Junjie Han, Sarah Chewning, Kaitlin Wurtz, Janice M Siegford and Juan P Steibel. Using differential evolution to improve predictive accuracy of deep learning models applied to pig production data. 2020 ADSA/ASAS Midwest Meeting, Omaha, Nebraska (March 2-4, 2020)"
 
 [[item]]
   organization = "edX"
