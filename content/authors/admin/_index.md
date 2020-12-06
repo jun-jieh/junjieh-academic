@@ -23,7 +23,7 @@ social:
     link: https://cmse.msu.edu/directory/graduate-students/junjie-han/
 organizations:
   - name: Michigan State University
-    url: msu.edu
+    url: https://msu.edu
 education:
   courses:
     - course: PhD in Animal Science & Computational Mathematics, Science and
