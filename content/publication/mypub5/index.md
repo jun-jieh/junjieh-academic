@@ -3,8 +3,8 @@
 
 title: "Heuristic hyperparameter optimization of deep learning models for genomic prediction"
 authors: [Junjie Han, Cedric Gondro, Kenneth Reid, Juan P Steibel]
-date: 2020-12-01
-doi: "https://doi.org/10.1101/2020.11.25.398800"
+date: 2021-02-06
+doi: "https://doi.org/10.1093/g3journal/jkab032"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-12-06T16:04:00-05:00
@@ -16,10 +16,10 @@ publishDate: 2020-12-06T16:04:00-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: "G3 Genes|Genomes|Genetics"
 publication_short: ""
 
-abstract: "Submitted"
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
